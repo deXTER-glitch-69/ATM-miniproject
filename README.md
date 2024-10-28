@@ -1,6 +1,6 @@
 # ATM-miniproject
 
-Program showing ATM functionalities using OOPs.
+The program shows ATM functionalities using OOPs.
 Functionalities include :
 1. Check Balance
 2. Cash Withdraw
